@@ -3761,7 +3761,10 @@ input, select, textarea {
 		margin: 0 0.8em 0 0.8em;
 		width: 70%;
 		margin-left: 15%;
-		background: #3b3b05;
+		background: #181818;
+		padding: 2%;
+		border-top-left-radius: 5% 5%;
+		border-top-right-radius: 5% 5%;
 	}
 
 		#footer .inner > * {
